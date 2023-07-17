@@ -1,11 +1,9 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<h2 align="center">About Me</h2>
+      😐 I'm H3. <br>
+      ☕ I write software. <br>
+      💩 I wish I was less direct.
 
-## **<div align="left">About Me</div>**  
-😐 I'm H3. <br>
-☕ I write software. <br>
-💩 I wish I was less direct. 
-## **<div align="left">I'm learning</div>**  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,nodejs,php,mongo,mysql,prisma,react,git,docker)](https://skills.thijs.gg)
-
-<p align="left">
+<h2 align="center">I'm Learning</h2>
+<p align="center">
+  <img src="https://skills.thijs.gg/icons?i=html,css,js,ts,nodejs,php,mongo,mysql,prisma,react,git,docker" alt="Skills">
 </p>
