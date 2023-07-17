@@ -5,6 +5,6 @@
 ☕ I write software. <br>
 💩 I wish I was less direct. 
 ## **<div align="left">I'm learning</div>**  
-<p align="left"> 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+<p align="left"> 
 </p>
