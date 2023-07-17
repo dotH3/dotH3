@@ -7,7 +7,7 @@
 ## **<div align="left">I'm learning</div>**  
 <p align="left"> 
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
+[  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> ](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   
