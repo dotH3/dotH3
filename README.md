@@ -5,5 +5,5 @@
 
 <h2 align="center">I'm Learning</h2>
 <p align="center">
-  <img src="https://skills.thijs.gg/icons?i=html,css,js,ts,nodejs,php,mongo,mysql,prisma,react,git,docker" alt="Skills">
+  <img src="https://skills.thijs.gg/icons?i=html,css,js,ts,nodejs,php,mongo,mysql,prisma,react,git,docker,nest" alt="Skills">
 </p>
