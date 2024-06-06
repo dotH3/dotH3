@@ -5,7 +5,7 @@
 
 <h2 align="center">I'm Learning</h2>
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,mysql,prisma,typeorm,react,git,docker,nest,vim,redux,vscode,vite,linux,windows,wordpress" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,mysql,prisma,react,git,docker,nest,vim,redux,vscode,vite,linux,windows,wordpress" />
 
 </p>
 
