@@ -1,3 +1,4 @@
+<img src="src/pf.png" alt="Logo" width="600" height="auto">
 <h2 align="center">About Me</h2>
       😐 I'm H3. <br>
       ☕ I write software. <br>
