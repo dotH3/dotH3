@@ -9,7 +9,7 @@
 ❤️ Open-Source lover.  
 🤓 English B2.  
 🍺 I wish you were beer.  
-🍔 Working at Ecomenu.
+🍔 Currently building cool stuff at Ecomenu.
 
 ## I’m Learning
 
