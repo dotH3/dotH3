@@ -7,7 +7,7 @@
 😐 I’m H3.  
 ☕ I write software.  
 ❤️ Open-Source lover.  
-🤓 English B2.  
+🤓 English Gateway B2+.  
 🍺 I wish you were beer.  
 🍔 Currently building cool stuff at Ecomenu.
 
