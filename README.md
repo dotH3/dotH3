@@ -6,15 +6,15 @@
 
 😐 I’m H3.  
 ☕ I write software.  
-❤️ Open-Source lover.  
 🤓 English Gateway B2.  
+❤️ Open-Source lover.  
 🍺 I wish you were beer.  
 🍔 Currently building cool stuff at Ecomenu.
 
-## I’m Learning
+## Some Skills
 
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,rust,php,mysql,prisma,react,git,docker,nest,vim,vscode,vite,linux,windows,wordpress,arduino,astro,bootstrap,express" />
-
+      <img src="https://skillicons.dev/icons?i=ts,rust,nestjs,react,angular" />
+      <img src="https://skillicons.dev/icons?i=cloudflare,nginx,docker,git,linux,mysql,mongodb" />
 </p>
 
