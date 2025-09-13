@@ -14,7 +14,7 @@
 ## Some Skills
 
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=ts,rust,nestjs,react,angular" />
-      <img src="https://skillicons.dev/icons?i=cloudflare,nginx,docker,git,linux,mysql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=js,ts,rust,nestjs,react,angular" />
+      <img src="https://skillicons.dev/icons?i=tailwind,css,cloudflare,nginx,docker,git,linux,mysql,mongodb" />
 </p>
 
