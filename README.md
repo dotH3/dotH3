@@ -18,3 +18,6 @@
       <img src="https://skillicons.dev/icons?i=tailwind,css,cloudflare,nginx,docker,git,linux,mysql,mongodb" />
 </p>
 
+<p align="center">
+      <img src="src/mondongo.gif" alt="mondongo" style="max-width:350px; width:60%; height:auto;" />
+</p>
