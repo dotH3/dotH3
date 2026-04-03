@@ -1,6 +1,8 @@
 <div align="center">
-      <!-- <img src="src/pf.png" alt="Logo" width="600" height="auto"> -->
+      <img src="src/pf.png" alt="Logo" width="600" height="auto">
 </div>
+
+<div style="display:none">
 
 ```
 ⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⡀
@@ -11,6 +13,8 @@
 ⣠⣴⣶⣾⣿⣿⣻⡟⣻⣿⢻⣿⡟⣛⢻⣿⡟⣛⣿⡿⣛⣛⢻⣿⣿⣶⣦⣄⡀⠀
 ⠉⠛⠻⠿⠿⠿⠷⣼⣿⣿⣼⣿⣧⣭⣼⣿⣧⣭⣿⣿⣬⡭⠾⠿⠿⠿⠛⠉⠀
 ```
+
+</div>
 
 ## About Me
 
