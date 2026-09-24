@@ -2,6 +2,9 @@
       <img src="src/pf.png" alt="Logo" width="600" height="auto">
 </div>
 
+I’m H3. I write software. English Gateway B2. I wish you were beer. 
+
+<!-- 
 ## About Me
 
 😐 I’m H3.  
@@ -20,4 +23,4 @@
 
 <p align="center">
       <img src="src/mondongo.gif" alt="mondongo" style="max-width:350px; width:60%; height:auto;" />
-</p>
+</p> -->
