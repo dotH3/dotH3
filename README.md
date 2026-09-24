@@ -12,7 +12,7 @@ English Gateway B2.
 
 I wish you were beer. 
 
-(OMG HIIII)[https://joaquinbastias.up.railway.app/]
+[OMG HIIII](https://joaquinbastias.up.railway.app/)
 
 <!-- 
 ## About Me
